@@ -26,8 +26,8 @@ End loop and stop the program.
 ## Program:
 ```
 /*
-Developed by: Ananda Rakshan K V
-Register Number:  212223230014
+Developed by: HARISH S
+Register Number:  212223230071
 
 */
 
